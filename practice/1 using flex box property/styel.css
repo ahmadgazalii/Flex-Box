@@ -1,0 +1,31 @@
+
+/* using flex box property */
+
+.main{
+    display: flex;
+    height: 1000px;
+    justify-content: center;
+background-color: aquamarine;
+/* flex-direction: column-reverse; */
+/* justify-content: space-around; */
+/* justify-content: space-evenly; */
+/* justify-content: space-betweens; */
+
+}
+
+.ah{
+    border: 5px solid gray;
+    height: 20%;
+    width: 20%;
+    text-align:center;
+    background-color: burlywood;
+
+}
+
+.ty{
+    text-align: center;
+    background-color: chocolate;
+height: 100px;    
+    justify-content: center;
+    
+}
