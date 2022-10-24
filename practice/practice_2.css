@@ -1,0 +1,27 @@
+.main{
+    display: flex;
+ 
+flex-wrap: wrap;
+justify-content: space-around;
+}
+
+.qw{
+    border: 5px solid blue;
+    align-items: center;
+    width: 200px;
+    display: flex;
+    height: 200px;
+    text-align: center;
+    margin: auto;
+    background-color: cornflowerblue;
+    
+}
+p{
+    width: 100%;
+    background-color: darkblue;
+
+}
+.body{
+    background-color: darkgray;
+    color: aliceblue;
+}
