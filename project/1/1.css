@@ -1,0 +1,44 @@
+.main{
+    background-color: lightgreen;
+    height: 1000px;
+
+    padding: 30px;
+    border: 4px solid darkgreen;
+    border-radius: 20px;
+}
+
+.head{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    color: darkgreen;
+    
+}
+
+.ab{
+    color: darkgreen;
+}
+
+.boxe{
+    display: flex;
+}
+
+.boxq{
+    background-color: lightgray;
+    width: 30px;
+    text-align: center;
+}
+
+.boxw{
+    background-color: darkgray;
+    flex-grow: 1;
+}
+
+.sub{
+
+height: 30px;
+background-color: red;
+margin-left:790px ;
+margin-top: 180px;
+color: white;
+
+}
