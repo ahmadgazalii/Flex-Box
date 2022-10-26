@@ -1,0 +1,38 @@
+
+.main{
+    background-color: white;
+    height: 800px;
+    
+}
+
+.log{
+    display: flex;
+    justify-content: right;
+    justify-content: space-evenly;
+    padding-bottom: 300px;
+   
+}
+
+.but{
+    display: flex;
+}
+
+.button{
+
+    
+    background-color: red;
+    height: 30px;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.image{
+    border-radius: 100%;
+    border: 5px solid black;
+}
+
+
+p{
+    line-height: 30px;
+    color : yellow
+}
