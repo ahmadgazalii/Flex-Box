@@ -1,6 +1,4 @@
-.main{
-    height: 1000px;
-}
+
 
 
 
@@ -25,7 +23,7 @@
 .uu{
     display: flex;
     justify-content: flex-end;
-    margin-left: 650px;
+    /* margin-left: 650px; */
 
 }
 
@@ -59,8 +57,8 @@ display: flex;
     width: 600px;
     height: 40px;
     border: 2px solid black;
-    border-radius: 20px;
-
+     padding-left: 20px;
+     border-radius: 20px;
     
 }
 
@@ -68,16 +66,20 @@ display: flex;
     display: flex;
     justify-content: center;
     padding-top: 40px;
+
     
 }
 
 .p{
-    margin-right: 15px;
+    
+    background-color: rgb(203, 196, 196);
+    padding: 10px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-left: 10px;
+    
 }
 
-.pl{
-    margin-left: 15px;
-}
+
 
 
 .mm{
@@ -86,18 +88,24 @@ display: flex;
     margin-top: 100px;
     background-color: grey;
     border-radius: 10px;
+    justify-content: space-between;
+
 }
 
 .tm{
     display: flex;
-    margin-left: 20px;
-}
-.mn{
-    display: flex;
-    justify-content: end;
-    margin-left:570px ;
+    padding: 0px 15px 0px 15px;
 
 }
+
 .yr{
     margin: 10px;
+}
+
+.flex{
+    position: fixed;
+    background:white;
+    display: flex;
+    width: 95%;
+    justify-content: space-between;
 }
