@@ -1,0 +1,103 @@
+.main{
+    height: 1000px;
+}
+
+
+
+.as{
+    
+    
+    
+    display: flex;
+   
+
+}
+
+
+.im{
+    width: 20px;
+    height: 20px;
+    margin-top: 15px;
+    margin-left: 10px;
+}
+
+
+.uu{
+    display: flex;
+    justify-content: flex-end;
+    margin-left: 650px;
+
+}
+
+.pp{
+    margin-left: 10px;
+}
+
+
+.image{
+    display: flex;
+    justify-content: center;
+}
+
+
+.imaa{
+    width: 900px;
+    height: 300px;
+    padding-top:70px ;
+
+}
+
+.serch{
+justify-content: center;
+display: flex;
+
+
+
+}
+
+.se{
+    width: 600px;
+    height: 40px;
+    border: 2px solid black;
+    border-radius: 20px;
+
+    
+}
+
+.rt{
+    display: flex;
+    justify-content: center;
+    padding-top: 40px;
+    
+}
+
+.p{
+    margin-right: 15px;
+}
+
+.pl{
+    margin-left: 15px;
+}
+
+
+.mm{
+    display: flex;
+    border: 3px solid black;
+    margin-top: 100px;
+    background-color: grey;
+    border-radius: 10px;
+}
+
+.tm{
+    display: flex;
+    margin-left: 20px;
+}
+.mn{
+    display: flex;
+    justify-content: end;
+    margin-left:570px ;
+
+}
+.yr{
+    margin: 10px;
+}
