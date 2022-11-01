@@ -1,0 +1,83 @@
+.main{
+    height: 1500px;
+    width: 100%;
+    border: 5px solid black;
+}
+
+.one{
+    background-image: url(ahm.jpg);
+    background-repeat:no-repeat;
+    width: 100%;
+    height: 500px;
+
+    background-size: 100%;
+    
+}
+
+
+.text{
+    display: flex;
+    justify-content: space-between;
+}
+
+.f{
+    display: flex;
+    font-size: 1cm;
+
+}
+
+.s{
+    border: 2px solid black;
+    border-radius: 20px;
+    height: 50px;
+    margin-top: 30px;
+    background-color: white;
+}
+
+.p{
+    margin-right:30px ;
+}
+
+.px{
+    margin-top: 5px;
+}
+
+
+.ahmad{
+    display: flex;
+}
+
+.second{
+    background-image: url(amn.jpg);
+    width: 80%;
+    height: 500px;
+    background-repeat: no-repeat;
+     background-size: 100%;
+     flex-grow: 1;
+
+}
+
+.first{
+    font-size: 0.5cm;
+    text-align: center;
+    margin-top: 100px;
+    
+}
+
+.ghazali{
+    display: flex;
+}
+
+
+.im{
+    background-image: url(pink.jpg);
+    background-size: 100%;
+    width: 95%;
+    height: 500px;
+}
+
+.tec{
+    font-size: 0.5cm;
+    text-align: center;
+    margin-top: 100px;
+}
