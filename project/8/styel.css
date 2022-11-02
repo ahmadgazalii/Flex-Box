@@ -1,0 +1,75 @@
+
+.main{
+
+    background-color: rgb(121, 121, 197);
+    
+}
+
+.head{
+ 
+  
+   display: flex;
+   justify-content: center;
+   margin-top: 100px;
+   background-color: white;
+}
+
+
+
+.card{
+    border:5px solid burlywood;
+    color: white;
+    margin-right: 38%;
+    margin-left: 38%;
+    justify-content: center;
+margin-top: 150px;
+height: 780px;
+width: 600px;
+
+}
+
+.lm{
+    border: 5px solid burlywood;
+    width: 50%;
+    height: 150px;
+    text-align: center;
+
+    font-size: 0.9cm  ;
+}
+
+.pl{
+    text-align: center;
+    background-color: white;
+    color: black;
+    font-size: 0.9cm;
+}
+
+
+.l{
+    border: 5px solid burlywood;
+    width: 50%;
+    height: 150px;
+    text-align: center;
+    flex-grow: 2;
+    font-size: 0.9cm  ;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.one{
+    display: flex;
+}
